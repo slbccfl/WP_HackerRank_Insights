@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2018-08-28 06:52:24
 ---
-## Solution: {#solution}
-
 ### Strategy: {#strategy}
 
 ### Methods: {#methods}
