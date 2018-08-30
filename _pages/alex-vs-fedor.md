@@ -9,12 +9,8 @@ permalink: >
 published: true
 post_date: 2018-08-19 14:08:15
 ---
-# Alex vs Fedor
+# Alex vs Fedor Given an arbitrary weighted graph, find all the potential spanning trees and all the potential minimal spanning trees so that a fraction can be outputted that will reflect the probably of randomly selected spanning tree, being a minimal spanning tree. 
 
-Given an arbitrary weighted graph, find all the potential spanning trees and all the potential minimal spanning trees so that a fraction can be outputted that will reflect the probably of randomly selected spanning tree, being a minimal spanning tree.
+## Problem: See HackerRank website for the problem description. (
 
-## Problem:
-
-See HackerRank website for the problem description. (<a href="https://www.hackerrank.com/challenges/alex-vs-fedor" target="_blank" rel="noopener">HackerRank Problem Description</a>)
-
- 
+<a href="https://www.hackerrank.com/challenges/alex-vs-fedor" target="_blank" rel="noopener">HackerRank Problem Description</a>)  
