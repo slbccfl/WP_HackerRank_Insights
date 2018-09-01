@@ -15,4 +15,7 @@ post_date: 2018-08-19 14:08:15
 
 ## [JavaScript Solution][1]
 
+## [Java Solution][2]  
+
  [1]: /index.php/alex-vs-fedor/alex-vs-fedor-javascript-solution
+ [2]: /index.php/alex-vs-fedor/alex-vs-fedor-java-solution
