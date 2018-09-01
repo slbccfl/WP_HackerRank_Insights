@@ -15,4 +15,4 @@ post_date: 2018-08-19 14:08:15
 
 ## [JavaScript Solution][1]
 
- [1]: <?php echo get_page_link( get_page_by_path( 'alex-vs-fedor/alex-vs-fedor-javascript-solution' )->ID ); ?>
+ [1]: /index.php/alex-vs-fedor/alex-vs-fedor-javascript-solution
