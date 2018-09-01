@@ -13,6 +13,6 @@ post_date: 2018-08-19 14:08:15
 
 ## <a href="https://www.hackerrank.com/challenges/alex-vs-fedor" target="_blank" rel="noopener">Problem Description on HackerRank</a>
 
-[/alex-vs-fedor/alex-vs-fedor-javascript-solution][1]
+[/JavaScript Solution][1]
 
- [1]: http://index.php/alex-vs-fedor/alex-vs-fedor-javascript-solution
+ [1]: <?php echo get_page_link( get_page_by_title( alex-vs-fedor-javascript-solution )->ID ); ?>
