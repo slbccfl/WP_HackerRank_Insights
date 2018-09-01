@@ -5,7 +5,7 @@ author: slbarnes
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/index.php/alex-vs-fedor/alex-vs-fedor-solution-java/
+  http://localhost/index.php/alex-vs-fedor/alex-vs-fedor-java-solution/
 published: true
 post_date: 2018-08-19 14:09:51
 ---
