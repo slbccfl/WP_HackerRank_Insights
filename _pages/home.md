@@ -8,3 +8,4 @@ permalink: http://localhost/
 published: true
 post_date: 2018-08-19 13:42:43
 ---
+[do_widget calendar]
