@@ -1,6 +1,6 @@
 ---
 ID: 293
-post_title: Mark and Toys, Java
+post_title: Mark and Toys, Java Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
