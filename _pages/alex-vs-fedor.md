@@ -16,5 +16,5 @@ Given an arbitrary weighted graph, find all the potential spanning trees and all
 
 ## [Java Solution][2]  
 
- [1]: /index.php/alex-vs-fedor/alex-vs-fedor-javascript-solution
- [2]: /index.php/alex-vs-fedor/alex-vs-fedor-java-solution
+ [1]: /index.php/alex-vs-fedor/alex-vs-fedor-javascript
+ [2]: /index.php/alex-vs-fedor/alex-vs-fedor-java
