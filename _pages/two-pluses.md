@@ -15,4 +15,4 @@ post_date: 2018-09-04 07:53:32
 ## [Java Solution][2]
 
  [1]: /index.php/two-pluses/two-pluses-javascript
- [2]: /index.php/two-pluses/two-pluses
+ [2]: /index.php/two-pluses/two-pluses-java
