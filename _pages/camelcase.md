@@ -13,4 +13,4 @@ Count number of words in a CamelCase string without spaces, like a variable name
 
 ## [JavaScript Solution][1]
 
- [1]: /index.php/camelcase/camelcase-javascript-solution
+ [1]: /index.php/camelcase/camelcase-javascript
