@@ -1,6 +1,6 @@
 ---
 ID: 285
-post_title: Jim and the Orders, JavaScript
+post_title: Jim and the Orders, JavaScript Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
