@@ -5,7 +5,7 @@ author: slbarnes
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/index.php/dijkstrashortreach/dijkstra-shortest-reach-2-java/
+  http://localhost/index.php/dijkstrashortreach/dijkstrashortreach-java/
 published: true
 post_date: 2018-09-04 18:29:24
 ---
