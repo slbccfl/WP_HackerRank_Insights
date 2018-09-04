@@ -9,14 +9,12 @@ permalink: >
 published: true
 post_date: 2018-08-28 18:11:44
 ---
-# Flipping bits
+Read in a series of 32-bit unsigned integers and output the bitwise complement, reverse the setting of all bits. 
+## <a href="https://www.hackerrank.com/challenges/flipping-bits/problem" target="_blank" rel="noopener">HackerRank Problem Description</a>
 
-Read in a series of 32-bit unsigned integers and output the bitwise complement, reverse the setting of all bits.
+## [JavaScript Solution][1]
 
-## Problem:
+## [Java Solution][2]
 
-See HackerRank website for the problem description. (<a href="https://www.hackerrank.com/challenges/flipping-bits/problem" target="_blank" rel="noopener">HackerRank Problem Description</a>)
-
-## Solution: {#solution}
-
- 
+ [1]: /index.php/flipping-bits/flipping-bits-javascript
+ [2]: /index.php/flipping-bits/flipping-bits-java
