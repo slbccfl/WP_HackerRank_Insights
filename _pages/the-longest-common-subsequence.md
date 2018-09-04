@@ -13,4 +13,4 @@ post_date: 2018-09-04 09:54:34
 
 ## [Java Solution][1]
 
- [1]: /index.php/the-longest-common-subsequence/the-longest-common-subsequence
+ [1]: /index.php/the-longest-common-subsequence/the-longest-common-subsequence-java
