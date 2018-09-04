@@ -12,4 +12,6 @@ post_date: 2018-08-28 06:43:52
 
 ## <a href="https://www.hackerrank.com/challenges/big-sorting/problem?h_r=internal-search" target="_blank" rel="noopener">HackerRank Problem Description</a>
 
-###  {#data-structures}
+## [JavaScript Solution][1]
+
+ [1]: /index.php/big-sorting/big-sorting-javascript-solution
