@@ -1,11 +1,11 @@
 ---
 ID: 405
-post_title: Simple Array Sum, JavaScript
+post_title: Simple Array Sum, JavaScript Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/index.php/simple-array-sum-javascript/
+  http://localhost/index.php/simple-array-sum/simple-array-sum-javascript/
 published: true
 post_date: 2018-09-04 09:44:00
 ---
