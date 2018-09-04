@@ -5,7 +5,7 @@ author: slbarnes
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/index.php/maximizing-xor/
+  http://localhost/index.php/two-pluses/maximizing-xor/
 published: true
 post_date: 2018-09-04 08:03:49
 ---
