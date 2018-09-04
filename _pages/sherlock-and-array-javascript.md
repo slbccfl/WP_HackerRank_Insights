@@ -1,6 +1,6 @@
 ---
 ID: 302
-post_title: Sherlock and Array, JavaScript
+post_title: Sherlock and Array, JavaScript Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
