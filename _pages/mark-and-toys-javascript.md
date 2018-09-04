@@ -1,6 +1,6 @@
 ---
 ID: 296
-post_title: Mark and Toys, JavaScript
+post_title: Mark and Toys, JavaScript Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
