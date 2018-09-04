@@ -1,6 +1,6 @@
 ---
 ID: 66
-post_title: Big Sorting JavaScript Solution
+post_title: Big Sorting, JavaScript Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
