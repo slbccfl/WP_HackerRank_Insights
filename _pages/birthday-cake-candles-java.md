@@ -1,6 +1,6 @@
 ---
 ID: 337
-post_title: Birthday Cake Candles, Java
+post_title: Birthday Cake Candles, Java Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
