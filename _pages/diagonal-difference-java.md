@@ -1,6 +1,6 @@
 ---
 ID: 375
-post_title: Diagonal Difference, Java
+post_title: Diagonal Difference, Java Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
