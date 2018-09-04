@@ -4,8 +4,7 @@ post_title: Permuting Two Arrays
 author: slbarnes
 post_excerpt: ""
 layout: page
-permalink: >
-  http://localhost/index.php/two-pluses/two-arrays/
+permalink: http://localhost/index.php/two-arrays/
 published: true
 post_date: 2018-09-04 08:18:48
 ---
