@@ -13,7 +13,4 @@ post_date: 2018-09-04 09:17:43
 
 ## [JavaScript Solution][1]
 
-## [Java Solution][2]
-
  [1]: /index.php/diagonal-difference/diagonal-difference-javascript
- [2]: /index.php/diagonal-difference/diagonal-difference-java
