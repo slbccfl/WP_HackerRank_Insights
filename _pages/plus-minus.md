@@ -12,7 +12,4 @@ post_date: 2018-09-04 09:13:30
 
 ## [JavaScript Solution][1]
 
-## [Java Solution][2]
-
  [1]: /index.php/plus-minus/plus-minus-javascript
- [2]: /index.php/plus-minus/plus-minus-java
