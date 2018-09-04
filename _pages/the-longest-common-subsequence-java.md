@@ -1,6 +1,8 @@
 ---
 ID: 419
-post_title: The Longest Common Subsequence, Java
+post_title: >
+  The Longest Common Subsequence, Java
+  Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
