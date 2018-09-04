@@ -9,11 +9,11 @@ permalink: >
 published: true
 post_date: 2018-09-04 09:00:36
 ---
-## <a href="https://www.hackerrank.com/challenges/alex-vs-fedor" target="_blank" rel="noopener">Problem Description on HackerRank</a>
+## <a href="https://www.hackerrank.com/challenges/birthday-cake-candles" target="_blank" rel="noopener">Problem Description on HackerRank</a>
 
 ## [JavaScript Solution][1]
 
 ## [Java Solution][2]
 
- [1]: /index.php/alex-vs-fedor/alex-vs-fedor-javascript
- [2]: /index.php/alex-vs-fedor/alex-vs-fedor-java
+ [1]: /index.php/birthday-cake-candles/birthday-cake-candles-javascript
+ [2]: /index.php/birthday-cake-candles/birthday-cake-candles-java
