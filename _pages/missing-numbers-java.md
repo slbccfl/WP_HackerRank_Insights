@@ -1,6 +1,6 @@
 ---
 ID: 315
-post_title: Missing Numbers, Java
+post_title: Missing Numbers, Java Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
