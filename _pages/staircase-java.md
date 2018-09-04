@@ -1,6 +1,6 @@
 ---
 ID: 359
-post_title: Staircase, Java
+post_title: Staircase, Java Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
