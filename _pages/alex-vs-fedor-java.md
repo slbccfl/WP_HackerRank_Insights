@@ -1,6 +1,6 @@
 ---
 ID: 39
-post_title: Alex vs Fedor, Solution Java
+post_title: Alex vs Fedor, Java Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
