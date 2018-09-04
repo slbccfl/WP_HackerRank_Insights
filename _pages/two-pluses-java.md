@@ -5,7 +5,7 @@ author: slbarnes
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/index.php/two-pluses/emas-supercomputer-java/
+  http://localhost/index.php/two-pluses/two-pluses-java/
 published: true
 post_date: 2018-09-04 07:59:11
 ---
