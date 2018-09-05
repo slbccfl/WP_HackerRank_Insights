@@ -1,6 +1,6 @@
 ---
 ID: 568
-post_title: 'Trees: Is This a Binary Search Tree?, Java'
+post_title: 'Trees: Is This a Binary Search Tree?, Java Solution'
 author: slbarnes
 post_excerpt: ""
 layout: page
