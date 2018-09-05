@@ -1,6 +1,6 @@
 ---
 ID: 541
-post_title: 'BFS: Shortest Reach in a Graph, Java'
+post_title: 'BFS: Shortest Reach in a Graph, Java Solution'
 author: slbarnes
 post_excerpt: ""
 layout: page
