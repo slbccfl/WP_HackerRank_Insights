@@ -1,6 +1,6 @@
 ---
 ID: 531
-post_title: 'DFS: Connected Cell in a Grid, Java'
+post_title: 'DFS: Connected Cell in a Grid, Java Solution'
 author: slbarnes
 post_excerpt: ""
 layout: page
