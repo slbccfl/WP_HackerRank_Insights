@@ -1,6 +1,6 @@
 ---
 ID: 548
-post_title: 'DP: Coin Change, Java'
+post_title: 'DP: Coin Change, Java Solution'
 author: slbarnes
 post_excerpt: ""
 layout: page
