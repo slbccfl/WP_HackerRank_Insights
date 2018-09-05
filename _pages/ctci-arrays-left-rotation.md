@@ -13,4 +13,4 @@ post_date: 2018-09-04 22:17:14
 
 ## [Ruby Solution][1]
 
- [1]: /index.php/ctci-array-left-rotation/ctci-array-left-rotation-ruby
+ [1]: /index.php/ctci-array-left-rotation/ctci-arrays-left-rotation-ruby
