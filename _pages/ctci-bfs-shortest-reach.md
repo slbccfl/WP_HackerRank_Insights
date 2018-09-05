@@ -5,7 +5,7 @@ author: slbarnes
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/index.php/bctci-bfs-shortest-reach/
+  http://localhost/index.php/ctci-bfs-shortest-reach/
 published: true
 post_date: 2018-09-04 20:36:57
 ---
