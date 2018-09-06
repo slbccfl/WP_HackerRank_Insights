@@ -16,5 +16,5 @@ Find an element in an array where the sum of the elements to the left is equal t
 
 ## [Java Solution][2]
 
- [1]: /index.php/alex-vs-fedor/alex-vs-fedor-javascript
- [2]: /index.php/alex-vs-fedor/alex-vs-fedor-java
+ [1]: /index.php/sherlock-and-array/sherlock-and-array-javascript
+ [2]: /index.php/sherlock-and-array/sherlock-and-array-java
