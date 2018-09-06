@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-04 08:45:52
 ---
+Count number of elements in an array that sum to a value less then k. 
 ## <a href="https://www.hackerrank.com/challenges/mark-and-toys" target="_blank" rel="noopener">Problem Description on HackerRank</a>
 
 ## [JavaScript Solution][1]
