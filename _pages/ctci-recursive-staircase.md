@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-04 19:20:41
 ---
+An implementation of recursion with memoization. 
 ## <a href="https://www.hackerrank.com/challenges/ctci-recursive-staircase" target="_blank" rel="noopener">Problem Description on HackerRank</a>
 
 ## [Java Solution][1]
