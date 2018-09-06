@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-04 08:57:55
 ---
+Determine the primality of integers. Requires optimization of the solution. 
 ## <a href="https://www.hackerrank.com/challenges/time-conversion" target="_blank" rel="noopener">Problem Description on HackerRank</a>
 
 ## [JavaScript Solution][1]
