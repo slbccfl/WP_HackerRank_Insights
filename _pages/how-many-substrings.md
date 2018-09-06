@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-04 09:58:26
 ---
+Find all the unique substrings in a given string of characters. 
 ## <a href="https://www.hackerrank.com/challenges/how-many-substrings" target="_blank" rel="noopener">Problem Description on HackerRank</a>
 
 ## [Java Solution][1]
