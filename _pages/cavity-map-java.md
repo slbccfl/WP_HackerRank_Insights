@@ -1,6 +1,6 @@
 ---
 ID: 646
-post_title: Cavity Map, Java
+post_title: Cavity Map, Java Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
