@@ -8,6 +8,7 @@ permalink: http://localhost/index.php/two-arrays/
 published: true
 post_date: 2018-09-04 08:18:48
 ---
+Find a permutation of two arrays so that adding pairs of elements from each array is >= a given value (k) for each set of arrays. 
 ## <a href="https://www.hackerrank.com/challenges/two-arrays" target="_blank" rel="noopener">Problem Description on HackerRank</a>
 
 ## [JavaScript Solution][1]
