@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2018-09-04 18:39:18
 ---
+Requires use of long, since unsigned integer is not supported in Java and masking out the sign bit.
