@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-04 08:48:35
 ---
+Find an element in an array where the sum of the elements to the left is equal to the elements to the right. 
 ## <a href="https://www.hackerrank.com/challenges/alex-vs-fedor" target="_blank" rel="noopener">Problem Description on HackerRank</a>
 
 ## [JavaScript Solution][1]
