@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-09-04 09:54:34
 ---
-## <a href="https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence" target="_blank" rel="noopener">Problem Description on HackerRank</a>
+subsequence is a sequence that can be derived from another sequence by deleting some elements without changing the order of the remaining elements. Longest common subsequence (LCS) of 2 sequences is a subsequence, with maximal length, which is common to both the sequences. 
+## <a href="https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence" target="_blank" rel="noopener">Problem Description on HackerRank</a> This is a dynamic programming problem that requires the use of memoization to be efficient enough to pass all test cases. 
 
 ## [Java Solution][1]
 
