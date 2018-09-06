@@ -13,6 +13,9 @@ Display a grid with "X" for each cell where each adjacent cell has a lower value
 
 ## Solution: {#solution} Traverse each cell and check the adjacent cells values in comparison to the current cell. Set a boolean array to indicate those that are “cavities”. Since cells not on the borders of the grid cannot be “cavities” I traversed only those inside the borders. A boolean array is used to track cavities because altering the original grid would interfere with subsequent cell evaluations. After the relevant cells have been evaluated, output the original grid, character by character. But check if the cell position is “true” on the “cavities” boolean array. If so, output an “X” instead. 
 
-## [JavaScript Solution][1]
+## [Java Solution][1]
 
- [1]: /index.php/cavity-map/cavity-map-javascript
+## [JavaScript Solution][2]
+
+ [1]: /index.php/cavity-map/cavity-map-java
+ [2]: /index.php/cavity-map/cavity-map-javascript
