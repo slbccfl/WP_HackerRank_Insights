@@ -11,3 +11,4 @@ permalink: >
 published: true
 post_date: 2018-09-04 09:52:47
 ---
+### Strategy: {#strategy} Collected and stored the sequences of integers in a List data structure. Used a recursive "lcs" method to find the common sequence of integers. This method returns a string with the integers separated by blanks.
