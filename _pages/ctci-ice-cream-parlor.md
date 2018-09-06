@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-04 09:50:15
 ---
+Implementation of a Queue. 
 ## <a href="https://www.hackerrank.com/challenges/ctci-ice-cream-parlor" target="_blank" rel="noopener">Problem Description on HackerRank</a>
 
 ## [Java Solution][1]
