@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-04 08:50:49
 ---
-### methods:
+### Methods:
 
 ##### balancedSums This function traverses left to right and right to left in the array "
 
