@@ -1,6 +1,6 @@
 ---
 ID: 110
-post_title: Ice Cream Parlor, JavaScript
+post_title: Ice Cream Parlor, JavaScript Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
