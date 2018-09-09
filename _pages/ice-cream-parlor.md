@@ -12,6 +12,9 @@ post_date: 2018-08-28 19:30:16
   
 ## <a href="https://www.hackerrank.com/challenges/icecream-parlor/problem" target="_blank" rel="noopener">HackerRank Problem Description</a>
 
-## [JavaScript Solution][1]  
+## [Java][1][ Solution][1]
 
- [1]: /index.php/ice-cream-parlor/ice-cream-parlor-javascript
+## [JavaScript Solution][2]  
+
+ [1]: /index.php/ice-cream-parlor/ice-cream-parlor-java
+ [2]: /index.php/ice-cream-parlor/ice-cream-parlor-javascript
