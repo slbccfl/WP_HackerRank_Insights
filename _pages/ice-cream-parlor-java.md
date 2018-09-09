@@ -1,6 +1,6 @@
 ---
 ID: 729
-post_title: Ice Cream Parlor, Java
+post_title: Ice Cream Parlor, Java Solution
 author: slbarnes
 post_excerpt: ""
 layout: page
